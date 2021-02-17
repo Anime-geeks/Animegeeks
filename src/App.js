@@ -10,7 +10,7 @@ function App() {
           We will be live before the next season of Demon Slayer.
         </p>
         <a
-         href="emailto:ohayo@animegeeks.xyz"
+         href="mailto:ohayo@animegeeks.xyz"
         >
          Know this logo? come build with us!
         </a>
