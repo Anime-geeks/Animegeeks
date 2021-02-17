@@ -7,15 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          We will be live before the next season of Demon Slayer.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+         href="emailto:ohaio@animegeeks.xyz"
         >
-          Learn React
+         Know this logo? come build with us!
         </a>
       </header>
     </div>
